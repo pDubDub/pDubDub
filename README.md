@@ -9,5 +9,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on... SpriteKit/iOS games?
 - 📫 How to reach me ...
