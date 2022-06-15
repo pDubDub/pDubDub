@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pDubDub. Some colleagues used to call me iPat. Friends call me Patrick. My kids call me Dad.
 - 👀 I’m interested in mobile app & game development.
-- 🌱 I’m currently learning Swift and some general front-end development.
+- 🌱 I’m currently learning Swift and front-end development (Drupal, Javascript, jQuery).
 
 
 <!---
